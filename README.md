@@ -46,3 +46,10 @@ The library is compiled via `Makefile` into a static library (`libftprintf.a`), 
 ```bash
 git clone [https://github.com/YOUR_USERNAME/ft_printf.git](https://github.com/YOUR_USERNAME/ft_printf.git)
 cd ft_printf
+
+
+---
+
+## License
+
+MIT © [denyskotcode](https://github.com/denyskotcode) — see [LICENSE](LICENSE) for details.
